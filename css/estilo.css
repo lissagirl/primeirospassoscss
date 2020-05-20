@@ -1,0 +1,31 @@
+.menu{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+}
+.menu ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu li{
+    list-style: none;
+    
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace
+}
+.bananinha,
+.titulo_site{
+    color: pink;
+    text-align: center;
+
+}
+.bananinha{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-image: url(https://lisboacool.com/sites/default/files/styles/ny_article_horizontal__w720xh480_watermark/public/thierry-meier-pkepaemboiu-unsplash.jpg?itok=rBXfx_hA);
+}
